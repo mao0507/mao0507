@@ -127,7 +127,7 @@
     <img
     src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
     alt="express"
-    width="50"
+    width="70"
     height="50"
   />
   </span>
@@ -135,7 +135,7 @@
     <img
     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"
     alt="flask"
-    width="50"
+    width="70"
     height="50"
   />
   </span>
@@ -192,7 +192,7 @@
     <img
     src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"
     alt="yarn"
-    width="50"
+    width="70"
     height="50"
   />
   </span>
