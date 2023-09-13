@@ -125,7 +125,7 @@
   </span>
   <span>
     <img
-    src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-ar21.svg"
+    src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"
     alt="express"
     width="40"
     height="40"
