@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mao</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+<h3 align="center">A frontend developer from Taiwan</h3>
 
-<h3 align="left">Front-end :</h3>
-<p align="left">
+<h3 align="center">Front-end :</h3>
+<p align="center">
   <span>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -39,8 +39,8 @@
   </span>
 </p>
 
-<h3 align="left">Front-end Framework :</h3>
-<p>
+<h3 align="center">Front-end Framework :</h3>
+<p align="center">
   <span>
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
@@ -76,8 +76,8 @@
   </span>
 </p>
 
-<h3 align="left">Back-end :</h3>
-<p>
+<h3 align="center">Back-end :</h3>
+<p align="center">
   <span>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
@@ -105,8 +105,8 @@
   </span>
 </p>
 
-<h3 align="left">Back-end Framework :</h3>
-<p>
+<h3 align="center">Back-end Framework :</h3>
+<p align="center">
   <span>
     <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png"
@@ -141,8 +141,8 @@
   </span>
 </p>
 
-<h3 align="left">DataBase :</h3>
-<p>
+<h3 align="center">DataBase :</h3>
+<p align="center">
   <span>
     <img
       src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
@@ -162,8 +162,8 @@
   </span>
 </p>
 
-<h3 align="left">Tools :</h3>
-<p>
+<h3 align="center">Tools :</h3>
+<p align="center">
   <span>
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -192,7 +192,7 @@
     <img
     src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"
     alt="yarn"
-    width="70"
+    width="100"
     height="50"
   />
   </span>
