@@ -66,6 +66,15 @@
       height="50"
     />
   </span>
+
+   <span>
+    <img
+      src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png"
+      alt="primevue"
+      width="50"
+      height="50"
+    />
+  </span>
   <span>
     <img
       src="https://www.svgrepo.com/show/353498/bootstrap.svg"
