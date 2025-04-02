@@ -37,6 +37,16 @@
       height="50"
     />
   </span>
+
+<span>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
+      alt="sass"
+      width="50"
+      height="50"
+    />
+  </span>
+  
   <span>
     <img
       src="https://cdn.worldvectorlogo.com/logos/pug.svg"
