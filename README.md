@@ -11,6 +11,14 @@
       height="50"
     />
   </span>
+  <span>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="50"
+      height="50"
+    />
+  </span>
 
   <span>
     <img
