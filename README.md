@@ -61,7 +61,7 @@
 <p align="left">
   <span>
     <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      src="https://www.svgrepo.com/show/374118/tailwind.svg"
       alt="tailwind"
       width="50"
       height="50"
