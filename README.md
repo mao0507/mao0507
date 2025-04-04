@@ -32,7 +32,7 @@
   <span>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="css3"
+      alt="html5"
       width="50"
       height="50"
     />
