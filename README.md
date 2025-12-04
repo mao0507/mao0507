@@ -131,7 +131,7 @@
     />
   </span>
   <span>
-    <img src="https://nestjs.com/logo-small-gradient.d792062c.svg"  
+    <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg"  
       alt="nestjs"
       width="50"
       height="50" 
