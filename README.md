@@ -149,6 +149,6 @@
   </span>  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mao0507&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </p>
