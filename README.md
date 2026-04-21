@@ -1,154 +1,46 @@
-<p align="left">Hi 👋, I'm Mao</h1>
-<p align="left">A frontend developer from Taiwan</p>
+<h1 align="center">Hi, I'm Mao 👋</h1>
+<p align="center">Frontend Developer from Taiwan 🇹🇼</p>
 
-<p align="left">Front-end :</p>
-<p align="left">
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="50"
-      height="50"
-    />
-  </span>
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="50"
-      height="50"
-    />
-  </span>
+<br />
 
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="50"
-      height="50"
-    />
-  </span>
+## 🛠 Tech Stack
 
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="50"
-      height="50"
-    />
-  </span>
+### Frontend
 
-<span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="50"
-      height="50"
-    />
-  </span>
-  
-  <span>
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg"
-      alt="pug"
-      width="50"
-      height="50"
-    />
-  </span>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=pug&logoColor=white" alt="Pug" />
 </p>
 
-<p align="left">Front-end Framework :</p>
-<p align="left">
-  <span>
-    <img
-      src="https://www.svgrepo.com/show/374118/tailwind.svg"
-      alt="tailwind"
-      width="50"
-      height="50"
-    />
-  </span>
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
-      width="50"
-      height="50"
-    />
-  </span>
+### Frameworks & UI Libraries
 
-  <span>
-    <img
-      src="https://bestofjs.org/logos/vuetify.svg"
-      alt="vuetify"
-      width="50"
-      height="50"
-    />
-  </span>
-
-   <span>
-    <img
-      src="https://i2.wp.com/www.primefaces.org/wp-content/uploads/2019/12/primevue-logo.png"
-      alt="primevue"
-      width="50"
-      height="50"
-    />
-  </span>
-  <span>
-    <img
-      src="https://www.svgrepo.com/show/353498/bootstrap.svg"
-      alt="bootstrap"
-      width="50"
-      height="50"
-    />
-  </span>
-   <span>
-    <img
-      src="https://antdv.com/assets/logo.1ef800a8.svg"
-      alt="ant design vue"
-      width="50"
-      height="50"
-    />
-  </span>
-  
-  
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/PrimeVue-41B883?style=flat-square&logo=vue.js&logoColor=white" alt="PrimeVue" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Ant_Design_Vue-0170FE?style=flat-square&logo=ant-design&logoColor=white" alt="Ant Design Vue" />
 </p>
 
-<p align="left">Back-end :</p>
-<p align="left">
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="50"
-      height="50"
-    />
-  </span>
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="50"
-      height="50"
-    />
-  </span>
+### Backend
 
-  <span>
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="50"
-      height="50"
-    />
-  </span>
-  <span>
-    <img src="https://docs.nestjs.com/assets/logo-small-gradient.svg"  
-      alt="nestjs"
-      width="50"
-      height="50" 
-    />  
-  </span>  
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
 </p>
 
+<br />
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
 </p>
